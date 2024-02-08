@@ -1,0 +1,16 @@
+../Core/Src/lcd.c:9:6:send_start_bit	3
+../Core/Src/lcd.c:20:6:dummy_cycle	2
+../Core/Src/lcd.c:26:6:transfer_data	4
+../Core/Src/lcd.c:43:9:read_data	4
+../Core/Src/lcd.c:59:6:transfer_data_block	2
+../Core/Src/lcd.c:65:6:read_data_block	2
+../Core/Src/lcd.c:73:6:read_cmd_lcd	1
+../Core/Src/lcd.c:81:6:send_cmd_to_lcd	1
+../Core/Src/lcd.c:87:6:write_to_cmd_lcd	1
+../Core/Src/lcd.c:94:6:send_data_to_lcd	1
+../Core/Src/lcd.c:100:6:lcd_delay	2
+../Core/Src/lcd.c:106:6:lcd_reset	1
+../Core/Src/lcd.c:113:6:lcd_init	1
+../Core/Src/lcd.c:133:6:LCD_set_x_y	1
+../Core/Src/lcd.c:156:6:LCD_clear	2
+../Core/Src/lcd.c:174:6:LCD_set_pixel	1

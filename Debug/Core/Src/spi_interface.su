@@ -1,0 +1,2 @@
+../Core/Src/spi_interface.c:22:6:spi_handler	16	static
+../Core/Src/spi_interface.c:87:6:spi_add_to_queue	24	static
